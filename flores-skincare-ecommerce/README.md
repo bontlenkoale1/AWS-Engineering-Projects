@@ -4,7 +4,7 @@
 
 ## About The Project 📖
 
-Flores Skincare is a personal project born from a journey with hormonal acne and acne scars. For me, skincare became more than just products—it became a source of comfort, healing, and empowerment. 
+Flores Skincare is a personal project born from a journey with hormonal acne and acne scars. For me, skincare became more than just products,it became a source of comfort, healing, and empowerment. 
 
 As someone who spent countless hours browsing e-commerce platforms searching for solutions that worked, I wanted to create a space that understands the struggle. This project is my way of combining my personal experience with my passion for development, bringing together the world of skincare and modern technology.
 
