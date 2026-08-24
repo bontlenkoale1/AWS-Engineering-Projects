@@ -44,23 +44,11 @@ The foundation is in place:
 
 ## Images to show progress
 
-<img width="1920" height="1020" alt="Screenshot 2026-07-23 211202" src="https://github.com/user-attachments/assets/7cadd2c4-6413-481f-95a5-edf2f79e04e1" />
-<img width="1920" height="1020" alt="Screenshot 2026-07-19 133522" src="https://github.com/user-attachments/assets/b950dd34-0c64-4377-947f-698f91053c8b" />
-<img width="1920" height="1020" alt="Screenshot 2026-07-19 133038" src="https://github.com/user-attachments/assets/d29320c2-bfb7-4849-889e-e30a4b759804" />
-<img width="1920" height="1020" alt="Screenshot 2026-07-19 132954" src="https://github.com/user-attachments/assets/5284542e-84c9-42f0-998b-102ba26d8bf1" />
-<img width="1866" height="683" alt="Static website hosting setup" src="https://github.com/user-attachments/assets/1f710b70-d303-4848-bad1-da416e9265d6" />
-<img width="989" height="756" alt="Simulearn File Systems in the cloud" src="https://github.com/user-attachments/assets/1c84c8a4-fe42-46e9-a0f5-1cb9cbb0c803" />
-<img width="1916" height="1016" alt="Screenshot 2026-08-25 003016" src="https://github.com/user-attachments/assets/4fb4dfb3-d30a-42da-a248-37ad235425c1" />
-<img width="1916" height="965" alt="Screenshot 2026-08-25 002958" src="https://github.com/user-attachments/assets/eecf73b6-e2dc-4841-8702-61bdea1d5004" />
-<img width="1899" height="468" alt="Screenshot 2026-08-25 002444" src="https://github.com/user-attachments/assets/0b8fc6e6-fd20-4faa-9952-3d746e56f768" />
-<img width="1903" height="914" alt="Screenshot 2026-08-24 235131" src="https://github.com/user-attachments/assets/33c7937e-b258-4ba4-9ce1-bbee31d3c041" />
-<img width="1920" height="1020" alt="Screenshot 2026-08-24 232527" src="https://github.com/user-attachments/assets/c4e0fe65-4a89-4b09-88ec-3960bbcf672c" />
-<img width="1920" height="1020" alt="Screenshot 2026-08-23 150250" src="https://github.com/user-attachments/assets/b06bec68-dfe2-4081-808c-a773017ccb25" />
-<img width="745" height="449" alt="Screenshot 2026-08-21 230453" src="https://github.com/user-attachments/assets/5c126eaa-4c8b-40a7-bc5c-1ef1fa23680c" />
-<img width="960" height="1020" alt="Screenshot 2026-08-21 230400" src="https://github.com/user-attachments/assets/256eeb0a-f8a5-49a5-9bf6-13007e9ce107" />
-<img width="960" height="1020" alt="Screenshot 2026-08-21 230307" src="https://github.com/user-attachments/assets/36beddf9-dc7d-47f5-acb0-6e68d3631ff0" />
-<img width="1920" height="1080" alt="Screenshot 2026-08-21 224209" src="https://github.com/user-attachments/assets/ee2be9d8-01be-401a-83bb-176cb68b98d4" />
-<img width="976" height="190" alt="Screenshot 2026-08-01 221658" src="https://github.com/user-attachments/assets/721938fd-8d0d-4840-aec9-94b5b0d19906" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-08-24 232527" src="https://github.com/user-attachments/assets/06b1a95e-a414-49f0-ab94-76d9c2a163fd" />
+<img width="1903" height="914" alt="Screenshot 2026-08-24 235131" src="https://github.com/user-attachments/assets/346ea0d5-4c50-4a7f-ba40-7b46bd9072d3" />
+<img width="1899" height="468" alt="Screenshot 2026-08-25 002444" src="https://github.com/user-attachments/assets/5a70c0ed-3a20-47a2-8703-aebeee45ccbd" />
+<img width="1916" height="1016" alt="Screenshot 2026-08-25 003016" src="https://github.com/user-attachments/assets/cdbc8c7d-30c6-4008-bb99-559a554f23ed" />
 
 
 
