@@ -44,14 +44,11 @@ The foundation is in place:
 
 ## Images to show progress
 
-
-<img width="1920" height="1020" alt="Screenshot 2026-08-24 232527" src="https://github.com/user-attachments/assets/06b1a95e-a414-49f0-ab94-76d9c2a163fd" />
 <img width="1903" height="914" alt="Screenshot 2026-08-24 235131" src="https://github.com/user-attachments/assets/346ea0d5-4c50-4a7f-ba40-7b46bd9072d3" />
+
 <img width="1899" height="468" alt="Screenshot 2026-08-25 002444" src="https://github.com/user-attachments/assets/5a70c0ed-3a20-47a2-8703-aebeee45ccbd" />
+
 <img width="1916" height="1016" alt="Screenshot 2026-08-25 003016" src="https://github.com/user-attachments/assets/cdbc8c7d-30c6-4008-bb99-559a554f23ed" />
-
-
-
 
 ## How It Works 🔧
 
